@@ -4,6 +4,7 @@
 
 main()
 
+
 int a,b,c,d,f,e,g;
 clrscr();
 
