@@ -4,7 +4,7 @@
 
 main()
 
-int a,b,c,d,e;
+int a,b,c,d,e,h;
 clrscr();
 
 a=10;
