@@ -4,13 +4,14 @@
 
 main()
 
-int a,b,c,d;
+int a,b,c,d,f;
 clrscr();
 
 a=10;
 b=20;
 d=30;
 c=a+b+d;
+f=b-a;
 
 printf("the addition is = %d",c);
 
