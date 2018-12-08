@@ -6,6 +6,7 @@ main()
 
 int a,b,c,d;
 clrscr();
+printf("hai")
 
 a=10;
 b=20;
